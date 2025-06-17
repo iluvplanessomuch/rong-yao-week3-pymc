@@ -21,7 +21,7 @@ print(guy + "!!!!???!?!??!???!?!??!?!?!?!?!!!!")
 
 ####################################
 # Task 3:
-for counter in range(5):
+for counter in range(10):
     print(counter)    
 
 
