@@ -11,18 +11,18 @@ print("hello from day2")
 
 ########################################################################
 # Task 2:
-for counter in range(5):
-    print(counter+1)    
-guy = "JAYDENLINGCHANGHAO"
-for letter in guy:
-    print( "gimme a " + letter)
-print("whos the best?")
-print(guy + "!!!!???!?!??!???!?!??!?!?!?!?!!!!")
+# for counter in range(5):
+#     print(counter+1)    
+# guy = "JAYDENLINGCHANGHAO"
+# for letter in guy:
+#     print( "gimme a " + letter)
+# print("whos the best?")
+# print(guy + "!!!!???!?!??!???!?!??!?!?!?!?!!!!")
 
-####################################
+# ####################################
 # Task 3:
-for counter in range(10):
-    print(counter)    
+# for counter in range(10):
+#     print(counter)    
 
 
 ########################################################################
