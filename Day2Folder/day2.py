@@ -39,7 +39,7 @@ print("hello from day2")
 
 ########################################################################
 # Task 6:
-for count in range(50,-1):
+for count in range(50,1,-1):
     print(count)
 
 
