@@ -14,7 +14,7 @@ print("hello from day2")
 for counter in range(5):
     print(counter-2)    
    
-for letter in "DAMN":
+for letter in "JAYDENLINGCHANGHAO":
     print( "gimme a " + letter)
 
 ########################################################################
