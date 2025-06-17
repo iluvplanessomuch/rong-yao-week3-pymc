@@ -13,7 +13,7 @@ print("hello from day2")
 # Task 2:
 for counter in range(5):
      
-    print(counter)
+    print(counter+1)
 for letter in "DAMN":
     print(letter)
 
