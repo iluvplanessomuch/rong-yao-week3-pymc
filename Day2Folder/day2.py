@@ -12,7 +12,7 @@ print("hello from day2")
 ########################################################################
 # Task 2:
 for counter in range(5):
-    print    
+    print(counter)    
    
 for letter in "DAMN":
     print( "gimme a " + letter)
