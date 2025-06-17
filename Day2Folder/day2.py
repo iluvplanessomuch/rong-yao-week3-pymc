@@ -17,7 +17,7 @@ guy = "JAYDENLINGCHANGHAO"
 for letter in guy:
     print( "gimme a " + letter)
 print("whos the best?")
-print(letter)
+print(guy)
 
 ########################################################################
 # Task 3:
