@@ -16,7 +16,7 @@ for counter in range(5):
    
 for letter in "JAYDENLINGCHANGHAO":
     print( "gimme a " + letter)
-print
+print("whos the best?")
 
 ########################################################################
 # Task 3:
