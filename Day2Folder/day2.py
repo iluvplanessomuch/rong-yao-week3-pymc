@@ -13,8 +13,8 @@ print("hello from day2")
 # Task 2:
 for counter in range(5):
     print(counter+1)    
-guy = J
-for letter in "JAYDENLINGCHANGHAO":
+guy = "JAYDENLINGCHANGHAO"
+for letter in guy:
     print( "gimme a " + letter)
 print("whos the best?")
 print(letter)
