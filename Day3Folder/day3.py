@@ -87,7 +87,7 @@ print('hello')
 ########################################################################
 # Task 8:
 import random
-num1 = random
+num1 = random.randint(1,)
 
 
 
