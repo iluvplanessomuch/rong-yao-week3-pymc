@@ -90,7 +90,7 @@ import random
 num1 = random.randint(1,15)
 num2 = random.randint(1,15)
 guss = input('what is '+ str(num1) +' multiplied by '+ str(num2)+' = ')
-ans = (int(num1)+int(num2))
+ans = (int(num1)*int(num2))
 if int(guss) == ans:
     print('you are smart!')
 else:
