@@ -78,11 +78,11 @@ print('you stupid!')
 
 ########################################################################
 # Task 7:
-import random 
-for manynumba in range(100):
+# import random 
+# for manynumba in range(100):
 
-    random_number = random.randint(1,100)
-    print(random_number)
+#     random_number = random.randint(1,100)
+#     print(random_number)
 
 ########################################################################
 # Task 8:
