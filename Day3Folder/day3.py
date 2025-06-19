@@ -73,7 +73,7 @@ for count in range(3):
         break
     else :
         print('access denied')
-print('you stupid!')
+        print('you stupid!')
 
 
 ########################################################################
