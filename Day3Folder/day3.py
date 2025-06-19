@@ -89,7 +89,7 @@ print('hello')
 import random
 num1 = random.randint(1,100)
 num2 = random.randint(1,100)
-print('what is '+num1+' plus ')
+print('what is '+num1+' plus '+num2)
 
 
 
