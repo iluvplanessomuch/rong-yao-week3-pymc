@@ -76,7 +76,7 @@
 ########################################################################
 # Task 7:
 import random 
-for manynumba in range(10000000000000000000):
+for manynumba in range(100):
 
     random_number = random.randint(1,100)
     print(random_number)
