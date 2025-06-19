@@ -74,7 +74,7 @@ for count in range(3):
     else :
         print('access denied')
         print('you stupid!')
-
+print('hello')
 
 ########################################################################
 # Task 7:
