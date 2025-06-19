@@ -62,16 +62,16 @@
 #     print('NAHHHHHH')
 ########################################################################
 # Task 6:
-# realpass = 'abcdefg'
-# for count in range(3):
-#     guess = input('what is the password ')
+realpass = 'abcdefg'
+for count in range(3):
+    guess = input('what is the password ')
 
-#     if realpass == guess :
-#         print('access granted')
-#         break
-#     else :
-#         print('access denied')
-# print('you stupid!')
+    if realpass == guess :
+        print('access granted')
+        break
+    else :
+        print('access denied')
+print('you stupid!')
 
 
 ########################################################################
