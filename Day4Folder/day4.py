@@ -12,7 +12,7 @@ print("hello from day4")
 riddlemethisbatman = 'a battery' 
 gus = input('I have no life, but I can die. What am I? ')
 while riddlemethisbatman != gus :
-    print()
+    print('WRONG')
     gus = input('I have no life, but I can die. What am I? ')
 else :
     print('woah u is smart')
