@@ -92,7 +92,9 @@ num2 = random.randint(1,100)
 guss = input('what is '+num1+' plus '+num2)
 ans = (int(num1)+int(num2))
 if guss == str(ans):
-    print
+    print('you are smart!')
+else:
+    
 
 
 
