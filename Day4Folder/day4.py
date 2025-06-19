@@ -18,7 +18,7 @@ while riddlemethisbatman != gus :
     count = int(count)+1
 else :
     print('woah u is smart')
-    print('you got it after '+ str(count)+'')
+    print('you got it after '+ str(count)+' tries')
 
 
 ########################################################################
