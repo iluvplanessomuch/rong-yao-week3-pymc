@@ -9,7 +9,7 @@ print("hello from day4")
 
 ########################################################################
 # Task 2:
-riddlemethisbatman = 'battery' 
+riddlemethisbatman = 'a battery' 
 gus = input('I have no life, but I can die. What am I? ')
 while riddlemethisbatman != gus :
     gus = input('I have no life, but I can die. What am I? ')
