@@ -77,7 +77,7 @@ print('you stupid!')
 # Task 7:
 import random 
 random_number = random.rantint(1,100)
-print(random)
+print(random_number)
 
 ########################################################################
 # Task 8:
