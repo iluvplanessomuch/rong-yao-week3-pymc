@@ -89,7 +89,7 @@ print('hello')
 import random
 num1 = random.randint(1,100)
 num2 = random.randint(1,100)
-guss = input('what is '+num1+' plus '+num2)
+guss = input('what is '+ num1 +' plus '+ num2)
 ans = (int(num1)+int(num2))
 if guss == str(ans):
     print('you are smart!')
