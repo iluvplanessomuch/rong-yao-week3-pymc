@@ -87,8 +87,8 @@ print('hello')
 ########################################################################
 # Task 8:
 import random
-num1 = random.randint(1,100)
-num2 = random.randint(1,100)
+num1 = random.randint(1,15)
+num2 = random.randint(1,15)
 guss = input('what is '+ str(num1) +' plus '+ str(num2)+' = ')
 ans = (int(num1)+int(num2))
 if int(guss) == ans:
