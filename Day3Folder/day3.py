@@ -68,7 +68,7 @@
 
 #     if realpass == guess :
 #         print('access granted')
-
+#         break
 #     else :
 #         print('access denied')
 # print('you stupid!')
