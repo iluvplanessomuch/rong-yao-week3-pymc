@@ -62,7 +62,7 @@
 #     print('NAHHHHHH')
 ########################################################################
 # Task 6:
-realpass = 'abcdefg'
+realpass = 'lemmein'
 for count in range(3):
     guess = input('what is the password ')
 
