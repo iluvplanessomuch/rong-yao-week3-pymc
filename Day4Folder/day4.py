@@ -14,7 +14,7 @@ gus = input('I have no life, but I can die. What am I? ')
 while riddlemethisbatman != gus :
     gus = input('I have no life, but I can die. What am I? ')
 else :
-    
+    print('woah u is smart')
 
 
 ########################################################################
