@@ -94,7 +94,7 @@ ans = (int(num1)+int(num2))
 if guss == str(ans):
     print('you are smart!')
 else:
-    
+    print('GO SEE THE PRINCIPLE')
 
 
 
