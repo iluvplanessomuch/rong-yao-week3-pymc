@@ -15,7 +15,7 @@ gus = input('I have no life, but I can die. What am I? ')
 while riddlemethisbatman != gus :
     print('WRONG')
     gus = input('I have no life, but I can die. What am I? ')
-    count = (count+1)
+    count = int(count)+1
 else :
     print('woah u is smart')
     print('you got it after '+ counter)
