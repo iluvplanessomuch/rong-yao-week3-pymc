@@ -68,7 +68,8 @@ for count in range(3):
 
     if realpass == guess :
         print('access granted')
-        print('here is ')
+        print('here is some numbers')
+        
         break
     else :
         print('access denied')
