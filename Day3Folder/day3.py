@@ -62,21 +62,21 @@
 #     print('NAHHHHHH')
 ########################################################################
 # Task 6:
-realpass = 'abcdefg'
-for count in range(3):
-    guess = input('what is the password ')
+# realpass = 'abcdefg'
+# for count in range(3):
+#     guess = input('what is the password ')
 
-    if realpass == guess :
-        print('access granted')
-    else :
-        print('access denied')
-print('you stupid!')
+#     if realpass == guess :
+#         print('access granted')
+#     else :
+#         print('access denied')
+# print('you stupid!')
 
 
 ########################################################################
 # Task 7:
 import random 
-random_number = random.rantint(1,100)
+random_number = random.randtint(1,100)
 print(random_number)
 
 ########################################################################
