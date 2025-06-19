@@ -91,7 +91,7 @@ num1 = random.randint(1,100)
 num2 = random.randint(1,100)
 guss = input('what is '+ str(num1) +' plus '+ str(num2)+' = ')
 ans = (int(num1)+int(num2))
-if guss == str(ans):
+if int(guss) == ans:
     print('you are smart!')
 else:
     print('GO SEE THE PRINCIPLE')
